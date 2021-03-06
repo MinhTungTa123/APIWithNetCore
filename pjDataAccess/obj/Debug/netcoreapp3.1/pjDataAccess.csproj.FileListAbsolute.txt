@@ -1,0 +1,15 @@
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.deps.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.runtimeconfig.dev.json
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\bin\Debug\netcoreapp3.1\pjDataAccess.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\bin\Debug\netcoreapp3.1\pjModels.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csprojAssemblyReference.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfoInputs.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.AssemblyInfo.cs
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CoreCompileInputs.cache
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.csproj.CopyComplete
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.dll
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.pdb
+E:\QTHT_DHCNTPHCM\QTHT_DHCNTPHCM\HK2-2020-2021\THUCTAPDOANHNGHIEP\LEARNC#\NetCoreAPIWithSQL\pjDataAccess\obj\Debug\netcoreapp3.1\pjDataAccess.genruntimeconfig.cache
